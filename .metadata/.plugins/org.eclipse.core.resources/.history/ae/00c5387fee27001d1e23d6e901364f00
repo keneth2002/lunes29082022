@@ -1,0 +1,19 @@
+package algoritmouno;
+
+import java.util.Scanner;
+
+public class Salarioneto {
+     final static double Insspatronal = 0.225; 
+     static Scanner lector = new Scanner(System.in);
+	public static void main(String[] args) {
+		//Declaracion de variables
+		double MontoInss, MontoIr,MontoAfilicacion;
+		double IngresoNeto,IngresoTotal,Deducciones,IngresosAntiguedad;
+		
+		System.out.println("Ingrese su salario :");
+		System.out.print("");
+		
+
+	}
+
+}
